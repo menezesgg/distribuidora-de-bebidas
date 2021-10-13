@@ -1,5 +1,8 @@
 # distribuidora-de-bebidas
-Site de distribuidora de bebidas
+Site de distribuidora de bebidas, 
+para rodar a aplicação basta colar os aquivos em um pasta no servidor ou no localhost.
+Obrigado por visitar o meu perfil, considere deixar uma estrela ou me seguir.
+Atensiosamente.
 
 ![Screenshot_35](https://user-images.githubusercontent.com/69375587/137219741-657637d7-0bd9-4d37-b984-4090ee6bf3bb.png)
 ![Screenshot_36](https://user-images.githubusercontent.com/69375587/137219745-2b65b179-02c9-403a-b483-96d02a9bdd9f.png)
